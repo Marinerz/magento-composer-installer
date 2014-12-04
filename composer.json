@@ -48,7 +48,7 @@
         "squizlabs/php_codesniffer": "1.4.7",
         "firegento/phpcs": "1.1.0",
         "composer/composer":"*@dev",
-        "symfony/process":"*",
+        "symfony/process":"~2.1",
         "mikey179/vfsStream":"*"
     },
     "suggest":{
